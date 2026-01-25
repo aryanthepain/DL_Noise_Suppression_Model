@@ -1,2 +1,4 @@
 noisy_trainset_wav
 noisy_trainset_wav/*
+clean_trainset_wav
+clean_trainset_wav/*
