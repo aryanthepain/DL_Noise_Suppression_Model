@@ -2,6 +2,5 @@ noisy_trainset_wav/
 noisy_testset_wav/
 clean_trainset_wav/
 clean_testset_wav/
-model_weights/
 *.pth
 *.zip
